@@ -1,5 +1,5 @@
 
-Sure! Here is a ready-to-use README.md file for your project, based on the details you've shared:
+
 
 WellnessZ Client Management System
 A web application built using Node.js, Express, MongoDB, NodeMailer, and Node-Cron for managing clients and coaches in the WellnessZ system. This application allows for scheduling sessions, sending email notifications, and managing client-coach relationships.
